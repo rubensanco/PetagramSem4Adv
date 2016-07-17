@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.MainActivity">
+
+    <item
+        android:id="@+id/favoritos"
+        android:orderInCategory="100"
+        android:title="@string/action_favoritos"
+        android:icon="@drawable/star_hotel_48"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/mcontacto"
+        android:title="@string/contacto"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+
+        ></item>
+    <item
+        android:id="@+id/macercade"
+        android:title="@string/acerca_de"
+        android:orderInCategory="101"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/mconfigcuenta"
+        android:title="@string/config_cuenta"
+        android:orderInCategory="102"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/mrecibirnotif"
+        android:title="@string/recibir_notif"
+        android:orderInCategory="103"
+        app:showAsAction="never"
+        ></item>
+</menu>

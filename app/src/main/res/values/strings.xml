@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PetagramMVP</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_favoritos">Favoritos</string>
+    <string name="title_activity_favoritos">Mascotas Favoritas</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="contacto">Contacto</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="title_activity_contacto">ContactoActivity</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">correo electrónico</string>
+    <string name="asunto">Asunto</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviar">Enviar</string>
+    <string name="title_activity_acerca_de">AcercaDeActivity</string>
+    <string name="acercade">Acerca de</string>
+    <string name="acerca_nombre">Rubén Sánchez</string>
+    <string name="acerca_desc">Desarrollador de Aplicaciones Android.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mascotas">Mascotas</string>
+    <string name="mimascota">Rocky</string>
+    <string name="mimascotatitulo">Mi mascota</string>
+    <string name="config_cuenta">Configurar Cuenta</string>
+    <string name="title_activity_config_cuenta">ConfigCuentaActivity</string>
+    <string name="app_name_2">Petagram</string>
+    <string name="escribe_usuariio">Escribe tu usuario</string>
+    <string name="guarda_cuenta">Guarda Cuenta</string>
+    <string name="recibir_notif">Recibir Notificaciones</string>
+    <string name="verMiPerfil">Ver mi perfil</string>
+    <string name="darFollow">Follow-Unfollow</string>
+    <string name="verUsuario">Ver Usuario</string>
+    <string name="title_activity_perfil_usuario">PerfilUsuarioActivity</string>
+    <string name="perfilUsuario">Perfil</string>
+</resources>
